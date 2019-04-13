@@ -1,0 +1,10 @@
+<table>
+    <tr>
+        <td>id</td>
+        <td>邮箱</td>
+    </tr>
+        <tr>
+            <td>{{$data->user_id}}</td>
+            <td>{{$data->user_email}}</td>
+        </tr>
+</table>
